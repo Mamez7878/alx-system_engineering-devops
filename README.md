@@ -1,1 +1,1 @@
-A repo for a shell project
+This is repo for a shell project
